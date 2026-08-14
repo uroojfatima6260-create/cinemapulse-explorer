@@ -1,0 +1,6 @@
+{
+  "name": "CinemaPulse Explorer",
+  "description": "Multi-page TV and media discovery app backed by the real TVMaze REST API with client-side routing, request cancellation, accessibility landmarks, and form validation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
